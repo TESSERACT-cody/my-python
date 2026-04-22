@@ -1,2 +1,4 @@
-https://github.com/TESSERACT-cody/my-python/latest/download/Malware.png
-https://github.com/TESSERACT-cody/my-python/latest/download/system.code.cmd 
+https://github.com/TESSERACT-cody/my-python/releases/latest/download/Malware.png
+
+
+https://github.com/TESSERACT-cody/my-python/releases/latest/download/system.code.cmd 
